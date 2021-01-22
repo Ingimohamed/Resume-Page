@@ -1,9 +1,33 @@
+.intro {
+  position: relative;
+}
+
 .square {
   height: 50px;
   width: 50px;
   background-color: grey;
   position: absolute;
-  top: 7%;
+  top: 20%;
+}
+
+.square2 {
+  height: 50px;
+  width: 50px;
+  background-color: grey;
+  position: absolute;
+  top: 6.5%;
+}
+
+.float-right {
+  float: right;
+}
+
+.rtl-direction {
+  direction: rtl;
+}
+
+.work_one {
+  position: relative;
 }
 
 /*# sourceMappingURL=style.css.map */
