@@ -85,4 +85,16 @@ a {
   font-weight: 500;
 }
 
+@media (max-width: 854px) {
+  .square,
+.square2,
+.square3,
+.square4,
+.square5,
+.square6,
+.square7 {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
