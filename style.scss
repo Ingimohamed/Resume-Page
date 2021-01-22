@@ -17,6 +17,43 @@
     
 }
 
+.square3 {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    position: absolute;
+    top: 9.5%;
+}
+.square4 {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    position: absolute;
+    top: 32.5%;
+}
+
+.square5 {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    position: absolute;
+    top: 10.5%;
+}
+.square6 {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    position: absolute;
+    top: 24.5%;
+}
+.square7 {
+    height: 50px;
+    width: 50px;
+    background-color: grey;
+    position: absolute;
+    top: 20.5%;
+}
+
 
 .float-right{
     float: right;
@@ -35,3 +72,15 @@
 //     left: -120px;
 //     position: absolute;
 // }
+ul{
+  list-style: circle;
+}
+a{
+    text-decoration: none;
+    color:rgb(49, 63, 63);
+    font-weight: 500;
+}
+.grey_color{
+    color:rgb(49, 63, 63);
+    font-weight: 500;
+}
